@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mycalculator</string>
+    <string name="voice_input">Голосовой ввод</string>
+</resources>
